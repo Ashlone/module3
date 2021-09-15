@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">module3</string>
+    <string name="brand1">"Tide "</string>
+    <string name="brand2">coca cola</string>
+    <string name="brand3">colgate</string>
+    <string name="brand4">Gillete</string>
+    <string name="brand5">Heineken</string>
+    <string name="brand6">Nike</string>
+    <string name="brand7">arkos</string>
+    <string name="brand8">Black Label</string>
+    <string name="brand9">Samsung</string>
+    <string name="brand10">Simba</string>
+    <string name="brand11">Unilever</string>
+</resources>
